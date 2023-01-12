@@ -1,0 +1,3 @@
+4. Nowadays how data is transferred between server and client?(explain about json)
+
+== JavaScript Object Notation (JSON) is a standard text-based format for representing structured data based on JavaScript object syntax. It is commonly used for transmitting data in web applications. And that's how nowadays data is transmitted between server and client.
