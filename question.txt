@@ -1,0 +1,9 @@
+1. explaing the architecture of nodejs
+2. explain the feature of nodejs like non-blocking, synchronous, single threaded.
+3. create a array and object in javascript and print it.
+4. Nowadays how data is transferred between server and client?(explain about json)
+5. write program to show how to append, pop and sort elements in array in javascript.
+6. why should we use let in place of var in our javascript programs?
+7. explain about all the primitive data types in javascrip
+
+https://docs.google.com/forms/d/e/1FAIpQLSeyzQGV5IfXSERo_YmK19VwULDDOoKVgwKGtZL8m11H1wVr1w/viewform?usp=sf_link
