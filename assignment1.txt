@@ -1,0 +1,7 @@
+1. Explain the architecture of nodejs.
+
+Node js contains of Node APIs , call stack, rollback queue.
+ The asynchronous type of code goes to node APIs and synchronous type of code goes to call stack.
+
+ Call Stack => Node API => Rolback Queue => Call Stack (Event Loop)
+
