@@ -1,5 +1,0 @@
-2. Explain the feature of nodejs like non-blocking, synchronous, single threaded.
-
-== Non - blocking :  Non-blocking refers to code that doesn’t block execution.
-   Synchronous : Code executes in a sequence.
-   Single Threaded : Javascript can executes only one stack at a time.
